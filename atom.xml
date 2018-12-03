@@ -5,9 +5,9 @@
   <subtitle>Kison`s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://kison30.cn/"/>
   <updated>2018-11-30T08:58:14.342Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://kison30.cn/</id>
   
   <author>
     <name>Kison Huang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="http://yoursite.com/2018/11/30/test-my-site/"/>
-    <id>http://yoursite.com/2018/11/30/test-my-site/</id>
+    <link href="http://kison30.cn/2018/11/30/test-my-site/"/>
+    <id>http://kison30.cn/2018/11/30/test-my-site/</id>
     <published>2018-11-30T08:58:14.000Z</published>
     <updated>2018-11-30T08:58:14.342Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/30/hello-world/"/>
-    <id>http://yoursite.com/2018/11/30/hello-world/</id>
+    <link href="http://kison30.cn/2018/11/30/hello-world/"/>
+    <id>http://kison30.cn/2018/11/30/hello-world/</id>
     <published>2018-11-30T08:21:48.349Z</published>
     <updated>2018-11-30T08:21:48.349Z</updated>
     
