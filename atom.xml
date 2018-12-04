@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kison30.cn/"/>
-  <updated>2018-12-04T07:40:00.981Z</updated>
+  <updated>2018-12-04T09:43:53.751Z</updated>
   <id>http://kison30.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://kison30.cn/2018/12/04/test/"/>
+    <id>http://kison30.cn/2018/12/04/test/</id>
+    <published>2018-12-04T09:15:12.700Z</published>
+    <updated>2018-12-04T09:43:53.751Z</updated>
+    
+    <content type="html"><![CDATA[<p>##markdown测试</p><hr><p>####超链接<br><a href="https://kison30.cn,&quot;标题&quot;">个人博客</a> </p><p>####键盘</p><p><kbp>Ctrl+[</kbp> and <kbp>Ctrl + ]</kbp></p><p>####code格式:反引号<br><code>print &#39;hello world&#39;</code></p><p>####强调<br><em>斜体强调</em><br><strong>粗体强调</strong></p><p>####图片<br><img src="http://www.izhangbo.cn/wp-content/themes/minty/img/logo.png,&quot;Optional title&quot;" alt="Alt text"></p><p>####使用icon文字</p><p><i class="icon-cog">22222323</i></p><p>####表格<br>Item     | Value<br>——– | —<br>Computer | $1600<br>Phone    | $12<br>Pipe     | $1</p><p>####无序列表</p><ul><li>s</li><li>a</li><li>1</li></ul><p>####有序列表</p><ol><li>1223   </li><li>33<br>####换行缩进形成代码区块<br> echo “fuck you”;</li></ol><p>####块引用</p><blockquote><p>sdsdsdasda</p><ul><li>dsd</li><li>sdasd</li></ul><ol><li>sdsd</li><li>sdsda</li></ol></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;##markdown测试&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;####超链接&lt;br&gt;&lt;a href=&quot;https://kison30.cn,&amp;quot;标题&amp;quot;&quot;&gt;个人博客&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;####键盘&lt;/p&gt;
+&lt;p&gt;&lt;kbp&gt;Ctrl+[&lt;/kbp&gt; and &lt;kbp
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>第一篇文章</title>
